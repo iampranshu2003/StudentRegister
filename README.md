@@ -17,7 +17,7 @@ To get started with this app, follow these steps:
 1. **Clone the Repository:**
    Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/iampranshu2003/student-register-app.git
+   git clone https://github.com/iampranshu2003/StudentRegister.git
    ```
 
 2. **Open in Android Studio:**
