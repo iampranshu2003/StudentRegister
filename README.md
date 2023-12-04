@@ -52,6 +52,11 @@ The main components of the app include:
 - **Clear Fields:**
   Use the "Clear" button to reset the input fields.
 
+- **Screenshot:**
+- 
+- ![App Screenshot](https://github.com/iampranshu2003/StudentRegister/blob/master/day7.jpg)
+
+
 ## Learnings
 
 This app is a great resource for learning about:
